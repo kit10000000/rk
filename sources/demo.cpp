@@ -7,6 +7,6 @@ int main(int argc, char** argv) {
     //!
     //!установка переменной окружения
     //!
-    std::string log_path = std::getenv("LOG_PATH");
+    std::string log_path = std::getenv("LOG_PATH"); /*!< установка переменной окружения */
     std::cout << log_path << std::endl;
 }
