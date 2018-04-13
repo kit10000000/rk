@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/e.chernikova/kit10000000/workspace/projects/rk/sources/demo.cpp
+string
+-
+fstream
+-
+iostream
+-
+cstdlib
+-
+

@@ -1,0 +1,20 @@
+Start testing: Apr 13 14:56 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/Users/e.chernikova/kit10000000/workspace/projects/rk/_build/check" "-s" "-r" "compact" "--use-colour" "yes"
+Directory: /Users/e.chernikova/kit10000000/workspace/projects/rk/_build
+"check" start time: Apr 13 14:56 MSK
+Output:
+----------------------------------------------------------
+No tests ran.
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Apr 13 14:56 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 13 14:56 MSK
